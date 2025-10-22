@@ -1,0 +1,801 @@
+Kod,Onarım Açıklaması
+DMG051,"Trim göstergesi arızalı bulunmuş, sensör devresi yenilenmiş ve sistem kalibre edilmiştir."
+DMG051,Gösterge bağlantı kablosu gevşekliği giderilmiştir.
+DMG051,Trim sistemi test edilerek doğruluk kontrolü yapılmıştır.
+DMG051,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG052,"Gövde panelinde çatlak tespit edilmiş, NDT muayene sonrası onarım uygulanmıştır."
+DMG052,Hasarlı panel çıkarılarak yeni panel monte edilmiştir.
+DMG052,Onarım sonrası yüzey boyası yenilenmiştir.
+DMG052,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG053,"Kanat yüzeyindeki ezilme giderilmiş, kompozit onarım yapılmıştır."
+DMG053,Hasarlı bölgeye epoksi dolgu uygulanarak yüzey düzeltilmiştir.
+DMG053,Kanat paneli boya ile kaplanmış ve koruma sağlanmıştır.
+DMG053,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG054,"Kanat ön kenarında aşınma tespit edilmiş, yüzey zımparalanarak yeniden boyanmıştır."
+DMG054,Ön kenar kaplama paneli değiştirilmiştir.
+DMG054,Yüzeysel erozyon giderilerek koruyucu film uygulanmıştır.
+DMG054,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG055,"Kompozit yüzeyde delaminasyon gözlenmiş, hasarlı tabaka çıkarılmış ve onarım uygulanmıştır."
+DMG055,Epoksi dolgu ve karbon kumaş ile güçlendirme yapılmıştır.
+DMG055,Ultrasonik test sonrası yüzey bütünlüğü doğrulanmıştır.
+DMG055,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG056,"Kuyruk konisi bölgesinde çatlak tespit edilmiştir, NDT inceleme sonrası yapısal tamir yapılmıştır."
+DMG056,Bağlantı elemanları yenilenmiştir.
+DMG056,Bölge boyanarak korozyon koruması sağlanmıştır.
+DMG056,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG057,Kargo kapağı sızdırmazlık lastikleri değiştirilmiştir.
+DMG057,Kilit mekanizması ayarlanarak test edilmiştir.
+DMG057,Basınç testi sonrası kapağın uygun şekilde kapandığı doğrulanmıştır.
+DMG057,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG058,"Yolcu kapısı kilitleme sistemi incelenmiş, mekanik ayar yapılmıştır."
+DMG058,Kilit kolu yağlanmış ve işlevi test edilmiştir.
+DMG058,Kapı contaları yenilenmiştir.
+DMG058,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG059,Cam ısıtma devresi kontrol edilerek arızalı eleman değiştirilmiştir.
+DMG059,Isıtma bağlantı kablosu yeniden izole edilmiştir.
+DMG059,Sistem testinden başarıyla geçmiştir.
+DMG059,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG060,Buz çözme sisteminde arıza tespit edilerek rezistans elemanı değiştirilmiştir.
+DMG060,Sistem bağlantıları kontrol edilip yeniden monte edilmiştir.
+DMG060,De-icing sistemi çalıştırılarak performansı doğrulanmıştır.
+DMG060,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG041,"Batarya aşırı ısınması tespit edilmiştir, bağlantılar kontrol edilip soğutma sağlanmıştır."
+DMG041,Batarya hücreleri voltaj farkı nedeniyle değiştirilmiştir.
+DMG041,Batarya sıcaklık sensörleri test edilip normal çalıştığı doğrulanmıştır.
+DMG041,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG042,"Aviyonik bölmesine su girişi tespit edilmiştir, bölme kurutulmuş ve yalıtım malzemesi yenilenmiştir."
+DMG042,"Elektrik konnektörleri temizlenmiş, oksidasyon giderilmiştir."
+DMG042,Aviyonik fan sistemi test edilip normal çalıştığı doğrulanmıştır.
+DMG042,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG043,"Radar altimetre hatalı ölçüm yapmıştır, sensör kalibrasyonu yeniden yapılmıştır."
+DMG043,"Altimetre anten bağlantısı sıkılmış, kablo izolasyonu yenilenmiştir."
+DMG043,Sistem test uçuşunda doğrulanarak onaylanmıştır.
+DMG043,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG044,Transponder bağlantı kablosunda temas problemi tespit edilip bağlantı yenilenmiştir.
+DMG044,"Transponder birimi kalibrasyon testinden geçirilmiş, doğru sinyal ilettiği doğrulanmıştır."
+DMG044,Yedek üniteyle fonksiyon testi yapılmıştır.
+DMG044,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG045,"VHF anten bağlantısı gevşemiş, bağlantı elemanları sıkılmıştır."
+DMG045,"Anten kablosu oksidasyondan temizlenmiş, iletkenlik testi yapılmıştır."
+DMG045,Sinyal kaybı giderilmiş ve sistem normal çalışmaya alınmıştır.
+DMG045,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG046,"HF anten bağlantısı kopmuş, yeni kablo takılarak sistem test edilmiştir."
+DMG046,Anten tuner cihazı yeniden ayarlanmıştır.
+DMG046,HF sistemi fonksiyonel testten başarıyla geçmiştir.
+DMG046,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG047,"Otopilot servo ünitesi arızalı bulunmuş, yenisiyle değiştirilmiştir."
+DMG047,Servo kontrol kabloları kontrol edilmiş ve izolasyon uygulanmıştır.
+DMG047,Otopilot sistemi test uçuşunda başarıyla denenmiştir.
+DMG047,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG048,"Uçuş yönlendirme sistemi yazılımı yeniden yüklenmiş, kontrol testleri yapılmıştır."
+DMG048,Gyro verilerinde sapma tespit edilip sistem kalibrasyonu sağlanmıştır.
+DMG048,Veri hattı bağlantıları test edilmiştir.
+DMG048,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG049,"Yaw damper sistemi arızalanmış, servo kontrol modülü değiştirilmiştir."
+DMG049,Hidrolik hatlardaki basınç kontrol edilerek sistem hava tahliye edilmiştir.
+DMG049,Test sırasında sistem stabil çalışmıştır.
+DMG049,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG050,"Stabilizer trim sistemi arızalı bulunmuş, aktüatör değişimi yapılmıştır."
+DMG050,Trim göstergesi yeniden kalibre edilmiştir.
+DMG050,Test sonrası trim sistemi normal çalışmaya alınmıştır.
+DMG050,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG081,"Gerilim regülatörü arızalanmış, yeni ünite takılmış ve test edilmiştir."
+DMG081,Regülasyon hattı bağlantıları sıkılmış ve izolasyon yenilenmiştir.
+DMG081,Sistem çıkış voltajı nominal değerlere ayarlanmıştır.
+DMG081,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG082,"Yer güç bağlantı soketi hasar görmüş, yenisiyle değiştirilmiştir."
+DMG082,Elektrik kablosu izolasyonu yenilenmiş ve test edilmiştir.
+DMG082,Topraklama devresi kontrol edilip uygunluğu onaylanmıştır.
+DMG082,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG083,"Kanat kök bölgesinde çatlak tespit edilmiştir, NDT inceleme sonrası yapısal tamir yapılmıştır."
+DMG083,Hasarlı bağlantı elemanları değiştirilmiştir.
+DMG083,Yapısal test sonrası uçuşa elverişli bulunmuştur.
+DMG083,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG084,"Flap asimetrisi gözlenmiş, senkronizasyon mekanizması ayarlanmıştır."
+DMG084,Flap hareketi test edilmiş ve limit değerler doğrulanmıştır.
+DMG084,Kontrol kabloları yağlanmış ve fonksiyonel test yapılmıştır.
+DMG084,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG085,"Spoiler bağlantı elemanları gevşemiş, tork değerinde sıkılmıştır."
+DMG085,Spoiler paneli hizalanarak mekanik bağlantılar yenilenmiştir.
+DMG085,Hidrolik aktüatör testi başarıyla tamamlanmıştır.
+DMG085,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG086,"Rudder denge ağırlığı düşmüş, yerine yeni ağırlık monte edilmiştir."
+DMG086,Montaj sonrası denge kontrolü yapılmıştır.
+DMG086,Bağlantı civataları tork anahtarı ile sıkılmıştır.
+DMG086,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG087,"Yatay stabilizatör yüzeyinde çatlak tespit edilmiş, onarım sonrası yüzey boya işlemi uygulanmıştır."
+DMG087,Kompozit yüzey güçlendirilmiş ve NDT muayenesi yapılmıştır.
+DMG087,Stabilizatör bağlantı burçları değiştirilmiştir.
+DMG087,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG088,"Dikey kuyruk yapısında korozyon tespit edilmiştir, etkilenen bölge temizlenip yüzey koruma uygulanmıştır."
+DMG088,"Bağlantı elemanları kontrol edilmiş, gerek görülenler yenilenmiştir."
+DMG088,Korozyon önleyici boya uygulanarak sistem kapatılmıştır.
+DMG088,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG089,"Statik çubuk kopması tespit edilmiş, yeni parça monte edilmiştir."
+DMG089,Bağlantı direnci ölçülerek uygun değer elde edilmiştir.
+DMG089,Statik boşaltma sistemi test edilmiştir.
+DMG089,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG090,Ön iniş takımı kapağı aktüatörü yağ sızıntısı nedeniyle değiştirilmiştir.
+DMG090,Hidrolik bağlantılar kontrol edilip sızdırmazlık sağlanmıştır.
+DMG090,Kapağın açılma-kapanma testi başarıyla tamamlanmıştır.
+DMG090,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG031,Navigasyon lambasında temas sorunu tespit edilerek bağlantı fişi yenilenmiştir.
+DMG031,"Arızalı ampul değiştirilmiş, aydınlatma devresi kontrol edilmiştir."
+DMG031,"Lamba yuvası oksidasyondan temizlenmiş, çalışma testi yapılmıştır."
+DMG031,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG032,"Taksi lambası arızalı bulunmuş, ampul değiştirilmiştir."
+DMG032,Elektrik kablosu izolasyonu yenilenmiş ve bağlantı noktası güçlendirilmiştir.
+DMG032,"Taksi ışığı reflektörü temizlenmiş, parlaklık ölçümü yapılmıştır."
+DMG032,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG033,"Yakıt pompası çalışmadığı için sökülüp test edilmiştir, arızalı motor değiştirildi."
+DMG033,Yakıt hattı kontrol edilip sızıntı olmadığı doğrulanmıştır.
+DMG033,"Pompa elektrik bağlantısı yenilenmiş, fonksiyon testi yapılmıştır."
+DMG033,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG034,Yakıt tankı havalandırma hattı temizlenmiş ve tıkanıklık giderilmiştir.
+DMG034,Hava çıkış vanası test edilip açma-kapama fonksiyonu doğrulanmıştır.
+DMG034,Havalandırma hattı sızdırmazlık testi sonrası yeniden monte edilmiştir.
+DMG034,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG035,"Hidrolik pompa sökülüp iç bileşenleri incelenmiş, aşınan parçalar değiştirilmiştir."
+DMG035,Pompa yeniden monte edilerek basınç testi yapılmıştır.
+DMG035,Yağ hattı bağlantıları sıkılmış ve sistem sızdırmazlığı sağlanmıştır.
+DMG035,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG036,Hidrolik basınç düşüşü sonrası sistem kontrol edilip kaçak tespit edilmemiştir.
+DMG036,Basınç sensörü kalibrasyonu yapılmıştır.
+DMG036,"Sıvı seviyesi tamamlanmış, sistem test edilmiştir."
+DMG036,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG037,Bleed air hattı sıcaklık sensörü yenilenmiş ve sistem kontrol edilmiştir.
+DMG037,Aşırı sıcaklık nedeniyle izolasyon malzemesi yenilenmiştir.
+DMG037,Basınç tahliye valfi test edilip normal çalıştığı doğrulanmıştır.
+DMG037,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG038,"Elektrik kısa devresi kaynaklı izolasyon hasarı giderilmiş, kablo demeti yenilenmiştir."
+DMG038,"Hasarlı sigorta değiştirildi, devre testinden başarıyla geçmiştir."
+DMG038,"Kablo güzergahı sabitlenmiş, temas noktaları izole edilmiştir."
+DMG038,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG039,AC hattında voltaj dengesizliği tespit edilip güç regülatörü değiştirilmiştir.
+DMG039,AC güç dağıtım panelinde bağlantılar sıkılmış ve temizlenmiştir.
+DMG039,Fonksiyon testinde sistemin kararlı çalıştığı doğrulanmıştır.
+DMG039,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG040,"DC jeneratör arızalı bulundu, rotor ve stator sargıları kontrol edilmiştir."
+DMG040,"Karbon fırçalar değiştirilmiş, sistem test edilmiştir."
+DMG040,DC güç çıkışı nominal değerlere getirilmiştir.
+DMG040,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG011,"Pitot tüpü tıkanıklığı giderilmiş, hat temizliği yapılarak sistem test edilmiştir."
+DMG011,"Pitot ve statik hatlar basınç testine tabi tutulmuş, sızdırmazlık sağlanmıştır."
+DMG011,Sensör koruyucu kapakları yenilenmiş ve sistem kalibrasyonu tamamlanmıştır.
+DMG011,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG012,"Statik port çevresi temizlenmiş, basınç ölçüm testi uygulanmıştır."
+DMG012,Kirlilik nedeniyle hatalı veri üreten port değiştirildi.
+DMG012,Statik hat bağlantıları kontrol edilip yeniden sızdırmaz hale getirilmiştir.
+DMG012,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG013,Yakıt filtresi tıkanıklığı tespit edilerek filtre elemanı değiştirilmiştir.
+DMG013,Yakıt hattı temizlenmiş ve sistem akış testi yapılmıştır.
+DMG013,Filtre yuvası basınç testi sonrası yeniden monte edilmiştir.
+DMG013,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG014,"APU aşırı ısınma uyarısı sonrası hava akışı kontrol edilmiş, egzoz hattı temizlenmiştir."
+DMG014,"APU soğutma fanı test edilmiş, yetersiz performans nedeniyle yenilenmiştir."
+DMG014,Yağ seviyesi ve sıcaklık sensörleri kalibre edilmiştir.
+DMG014,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG015,Bleed valfi sıkıştığı için sökülüp temizlenmiş ve fonksiyon testi uygulanmıştır.
+DMG015,"Valf aktüatörü kontrol edilmiş, gerek görülen parça değiştirilmiştir."
+DMG015,Hidrolik basınç hattı izolasyonu yenilenmiştir.
+DMG015,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG016,"Ters itki sistemi fonksiyon testinde arıza tespit edilmiş, aktüatör temizlenip yağlanmıştır."
+DMG016,"Sıkışan mekanizma yeniden hizalanmış, test sonrası normal çalıştığı doğrulanmıştır."
+DMG016,Ters itki kilitleme sistemine tork kontrolü uygulanmıştır.
+DMG016,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG017,"Spoiler aktüatörü yağ sızıntısı giderilmiş, bağlantılar tork değerinde sıkılmıştır."
+DMG017,Aktüatör kontrol sistemi test edilerek kalibrasyon yapılmıştır.
+DMG017,Spoiler paneli görsel incelemeden geçirilip yüzeysel deformasyon giderilmiştir.
+DMG017,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG018,"Flap rayında deformasyon tespit edilmiş, parça değiştirilmiştir."
+DMG018,Ray yatağı temizlenip yeniden yağlanmıştır.
+DMG018,Flap senkronizasyon sistemi test edilmiştir.
+DMG018,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG019,Rudder servo ünitesinde basınç kaybı tespit edilip valfler yenilenmiştir.
+DMG019,Servo sistemine fonksiyonel test uygulanmış ve çalışma limitleri doğrulanmıştır.
+DMG019,"Hidrolik hortumlar değiştirilmiş, sistem hava tahliyesi yapılmıştır."
+DMG019,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG020,"Elevator kontrol kablosunda aşınma gözlenmiş, kablo değiştirilmiştir."
+DMG020,Kablo gerginliği yeniden ayarlanarak sistem test edilmiştir.
+DMG020,Kablo makaraları temizlenmiş ve rulmanlar yağlanmıştır.
+DMG020,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG001,"Motor fan kanatlarında yapılan görsel incelemede deformasyon tespit edilmiş, hasarlı kanatlar değiştirilmiş ve balans kontrolü yapılmıştır."
+DMG001,"Motor giriş alanı temizlenmiş, gevşek bağlantılar tork değerinde sıkılmış ve motor test edilmiştir."
+DMG001,"Hasarlı yüzey epoksi dolgu ile onarılmış, yüzey koruyucu boya yenilenmiştir."
+DMG001,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG002,"Şimşek çarpması sonucu oluşan yanık izleri temizlenmiş, elektrik kablo izolasyonları yenilenmiş ve topraklama direnci kontrol edilmiştir."
+DMG002,Kanat ön kenarındaki yanık bölgeler kompozit onarım yöntemiyle düzeltilmiştir.
+DMG002,Yıldırım deşarj noktaları test edilerek bağlantı direnci limit içinde doğrulanmıştır.
+DMG002,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG003,"Sert iniş sonrası iniş takımı bağlantı noktaları NDT (ultrasonik) muayeneden geçirilmiş, tespit edilen gevşek elemanlar torklanmıştır."
+DMG003,"Gövde merkez hattında yapılan incelemede çatlak bulunmamış, yapısal bütünlük onaylanmıştır."
+DMG003,Amortisör azot basıncı kontrol edilip yeniden ayarlanmıştır.
+DMG003,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG004,"Yakıt hattında tespit edilen sızıntı giderilmiş, bağlantı contaları değiştirilmiş ve sistem basınç testi yapılmıştır."
+DMG004,"Yakıt tankı bölgesinde yapılan inceleme sonrası sızdırmazlık sağlanmış, uçak yeniden hizmete alınmıştır."
+DMG004,"Yakıt pompası ve filtre elemanları değiştirilmiş, sistem yeniden kalibre edilmiştir."
+DMG004,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG005,"Hidrolik hatlardaki kaçak tespit edilmiş, sızıntılı hortum değiştirilmiştir."
+DMG005,Hidrolik rezervuar seviye sensörü test edilmiş ve hatalı bulunan parça yenilenmiştir.
+DMG005,Basınç hattı bağlantıları yeniden monte edilip sızdırmazlık testi uygulanmıştır.
+DMG005,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG006,"İniş sonrası patlayan lastik sökülmüş, jant ve fren yüzeyleri kontrol edilmiştir."
+DMG006,"Yeni lastik monte edilmiş, tork ve basınç değerleri limit içinde ayarlanmıştır."
+DMG006,"Fren tork çubuğu görsel incelemeden geçirilmiş, deformasyon bulunmamıştır."
+DMG006,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG007,"Motor kompresör kanatlarında erozyon tespit edilmiş, etkilenen kanatlar değiştirilmiştir."
+DMG007,"Motor hava girişi filtresi temizlenmiş, hava akışı test edilmiştir."
+DMG007,Kompresör rotor balansı ayarlanarak motor performansı geri kazanılmıştır.
+DMG007,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG008,"Motor yağında partikül tespit edilmiş, yağ ve filtre değişimi yapılmıştır."
+DMG008,"Yağ analizi sonucunda sistemde kontaminasyon saptanmamış, motor servise verilmiştir."
+DMG008,"Yağ dönüş hattı temizlenmiş, bağlantılar yeniden monte edilmiştir."
+DMG008,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG009,"Bleed air hattında kaçak belirlenmiş, contalar değiştirilmiş ve sistem basınç testi yapılmıştır."
+DMG009,"Hattın sıcaklık sensörü yenilenmiş, termal izolasyon bandı uygulanmıştır."
+DMG009,Bleed vanası fonksiyon testinden geçirilmiş ve normal çalıştığı doğrulanmıştır.
+DMG009,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG010,"Kabin basınç kaybı sonrası valf sistemi incelenmiş, sızdırmazlık sağlanmıştır."
+DMG010,Basınçlandırma sensörleri kalibre edilmiştir.
+DMG010,"Kabin gövde contaları yenilenmiş, basınç testi başarılı şekilde tamamlanmıştır."
+DMG010,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG151,"Flap aktüatör bağlantı pimi gevşemiş, pimin bağlantısı sıkılmış ve emniyetlenmiştir."
+DMG151,Aktüatör yatağı kontrol edilip yağlanmıştır.
+DMG151,Flap hareket testi yapılmış ve düzgün çalıştığı doğrulanmıştır.
+DMG151,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG152,"Spoiler mekanizmasında sertlik tespit edilmiştir, hidrolik hatlar temizlenmiştir."
+DMG152,Aktüatör iç sızdırmazlık keçesi değiştirilmiştir.
+DMG152,Sistem test sonrası düzgün çalışmaktadır.
+DMG152,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG153,"Aileron bağlantı rod-end'i aşınmış, yenisiyle değiştirilmiştir."
+DMG153,Bağlantı noktası hizalaması kontrol edilmiştir.
+DMG153,Fonksiyonel kontrol yüzeyi testi tamamlanmıştır.
+DMG153,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG154,"Elevator kontrol teli gerginliği düşük bulunmuştur, yeniden ayarlanmıştır."
+DMG154,Kablo kılavuz makaraları kontrol edilmiştir.
+DMG154,Test uçuşu sonrası sistem performansı onaylanmıştır.
+DMG154,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG155,"Rudder tork barında çatlak tespit edilmiştir, parça değiştirilmiştir."
+DMG155,Tork ölçümü yapılmış ve sınır değerler içinde bulunmuştur.
+DMG155,Bağlantı civataları tork anahtarıyla sıkılmıştır.
+DMG155,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG156,"İniş takımı amortisör yağı eksik bulunmuş, yağ seviyesi tamamlanmıştır."
+DMG156,Keçe seti yenilenmiş ve sistem test edilmiştir.
+DMG156,İniş takımı iniş-duruş testinden geçmiştir.
+DMG156,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG157,"İniş takımı kilitleme çubuğu deformasyona uğramış, yeni çubuk monte edilmiştir."
+DMG157,Kilit mekanizması yağlanmış ve fonksiyon testi yapılmıştır.
+DMG157,Sistemin düzgün çalıştığı doğrulanmıştır.
+DMG157,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG158,"Ana iniş takımı bağlantı noktası burcu aşınmış, burç değiştirilmiştir."
+DMG158,Yapısal bağlantı plakası NDT ile kontrol edilmiştir.
+DMG158,Montaj sonrası hizalama ölçülmüş ve uygun bulunmuştur.
+DMG158,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG159,"Burun iniş takımı yönlendirme motoru arızalanmış, yeni motor takılmıştır."
+DMG159,Elektrik bağlantıları test edilmiştir.
+DMG159,Yönlendirme fonksiyon testi başarıyla tamamlanmıştır.
+DMG159,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG160,"Burun iniş takımı amortisöründe yağ sızıntısı tespit edilmiştir, keçe değişimi yapılmıştır."
+DMG160,Hidrolik sistem dolumu tamamlanmıştır.
+DMG160,Basınç testi sonrası sistem onaylanmıştır.
+DMG160,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG141,"Hidrolik pompa basınç düşüklüğü tespit edilmiştir, pompa değiştirilmiştir."
+DMG141,Hidrolik sıvı seviyesi kontrol edilip tamamlanmıştır.
+DMG141,Sistem basınç testi uygulanarak uygunluğu onaylanmıştır.
+DMG141,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG142,"Hidrolik aktüatör sızıntısı belirlenmiş, conta ve keçe seti yenilenmiştir."
+DMG142,Aktüatör montajı sonrası fonksiyon testi yapılmıştır.
+DMG142,Hidrolik hattı temizlenip sistem devreye alınmıştır.
+DMG142,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG143,"Yakıt basınç regülatörü arızalı bulunmuştur, yeni regülatör monte edilmiştir."
+DMG143,Yakıt hattı bağlantıları sıkılmıştır.
+DMG143,Basınç testinden başarıyla geçmiştir.
+DMG143,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG144,"Yakıt pompası gürültülü çalışıyordu, rulman seti değiştirilmiştir."
+DMG144,Pompa filtresi temizlenmiş ve yeniden monte edilmiştir.
+DMG144,Performans testi sonucu değerler normal bulunmuştur.
+DMG144,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG145,"Kanat içi yakıt transfer hattında kaçak gözlenmiştir, boru hattı yenilenmiştir."
+DMG145,Bağlantı flanşları değiştirilmiş ve sızdırmazlık sağlanmıştır.
+DMG145,Yakıt dolum testi sonrası kaçak gözlenmemiştir.
+DMG145,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG146,"Yakıt dolum kapağı contası yıpranmış, yeni conta monte edilmiştir."
+DMG146,Kapağın kilit mekanizması yağlanmış ve test edilmiştir.
+DMG146,Basınç testi sonrası sızdırmazlık doğrulanmıştır.
+DMG146,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG147,"Yapısal bağlantı civatası gevşemiş, tork anahtarı ile sıkılmıştır."
+DMG147,Bağlantı yüzeyleri temizlenip korozyon önleyici uygulanmıştır.
+DMG147,Bağlantı kontrolü NDT yöntemiyle doğrulanmıştır.
+DMG147,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG148,"Gövde bağlantı burcu aşınmış, yeni burç monte edilmiştir."
+DMG148,Montaj sonrasında hizalama ölçümü yapılmıştır.
+DMG148,Yapısal testten başarıyla geçmiştir.
+DMG148,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG149,Korozyon nedeniyle zayıflamış perçin hattı sökülüp yenilenmiştir.
+DMG149,Yüzey temizliği ve koruyucu boya işlemi uygulanmıştır.
+DMG149,Perçinleme işlemi sonrası NDT muayenesi yapılmıştır.
+DMG149,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG150,"Gövde paneli bağlantısında çatlak gözlenmiş, panel kesilerek yeni parça monte edilmiştir."
+DMG150,Bağlantı plakaları güçlendirilmiştir.
+DMG150,Onarım sonrası yüzey boyası yenilenmiştir.
+DMG150,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG101,"Yakıt hattında titreşim kaynaklı aşınma gözlenmiş, ilgili hat değiştirilmiştir."
+DMG101,Hattın sabitleme kelepçeleri yenilenmiş ve titreşim önleyici destek uygulanmıştır.
+DMG101,Basınç testi sonrası sistem sızdırmazlığı onaylanmıştır.
+DMG101,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG102,"Kargo tabanı panelinde deformasyon tespit edilmiştir, panel değiştirilmiştir."
+DMG102,Zemin bağlantı noktaları kontrol edilerek güçlendirilmiştir.
+DMG102,Yük testinden başarıyla geçmiştir.
+DMG102,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG103,"Kabin panelinde delaminasyon görülmüş, kompozit tamir uygulanmıştır."
+DMG103,Epoksi dolgu sonrası yüzey zımparalanmış ve boyanmıştır.
+DMG103,Panel bütünlüğü NDT testi ile doğrulanmıştır.
+DMG103,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG104,"Koltuk rayı korozyonu tespit edilmiş, etkilenen kısım temizlenmiş ve koruyucu boya uygulanmıştır."
+DMG104,Aşınmış ray değiştirildi ve montaj tork kontrolü yapılmıştır.
+DMG104,Fonksiyonel koltuk hareket testi gerçekleştirilmiştir.
+DMG104,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG105,"Lavabo gider hattında kaçak tespit edilmiştir, bağlantı kelepçeleri değiştirilmiştir."
+DMG105,Hattın içi temizlenmiş ve sızdırmazlık sağlanmıştır.
+DMG105,Sistem test sonrası onaylanmıştır.
+DMG105,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG106,"İçme suyu hattında çatlak tespit edilmiştir, hat yenilenmiştir."
+DMG106,Bağlantı noktaları yeniden monte edilerek basınç testi yapılmıştır.
+DMG106,Temizlik ve sterilizasyon işlemi uygulanmıştır.
+DMG106,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG107,"Atık tankı havalandırma hattı tıkanmış, hat temizlenmiştir."
+DMG107,Havalandırma valfi kontrol edilip normal çalıştığı doğrulanmıştır.
+DMG107,Sistem fonksiyon testi başarıyla tamamlanmıştır.
+DMG107,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG108,"Acil aydınlatma devresi enerji kesintisi tespit edilmiştir, kablo bağlantıları yenilenmiştir."
+DMG108,Güç kaynağı bataryası değiştirilmiştir.
+DMG108,Test modu çalıştırılarak ışık seviyesi doğrulanmıştır.
+DMG108,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG109,"Tahliye kaydı şişirme sisteminde gaz basıncı düşük bulunmuştur, tüp doldurulmuştur."
+DMG109,Valf bağlantıları kontrol edilip test edilmiştir.
+DMG109,Sistem manuel şişirme testinden geçmiştir.
+DMG109,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG110,"Duman dedektörü hatalı uyarı vermiş, sensör temizlenmiştir."
+DMG110,Kapsama alanı test edilerek doğru algılama doğrulanmıştır.
+DMG110,Dedektör devresi kalibre edilmiştir.
+DMG110,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG181,"Motor kontrol kablolarında izolasyon zayıflığı tespit edilmiştir, kablo demeti yenilenmiştir."
+DMG181,Bağlantı konnektörleri temizlenmiş ve koruyucu kaplama uygulanmıştır.
+DMG181,Sistem testinden başarıyla geçmiştir.
+DMG181,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG182,"Yakıt basınç sensörü arızalı bulunmuştur, sensör değiştirilmiştir."
+DMG182,Yakıt hattı temizlenip bağlantılar sıkılmıştır.
+DMG182,Kalibrasyon işlemi sonrası sistem doğruluğu onaylanmıştır.
+DMG182,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG183,"Motor yağ soğutucu tıkanmış, temizlik işlemi yapılmış ve hat basınç testi uygulanmıştır."
+DMG183,Soğutucu bağlantı flanşları değiştirilmiştir.
+DMG183,Sistem performans kontrolü normal bulunmuştur.
+DMG183,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG184,"Yakıt ısıtıcı ünitesi çalışmıyordu, ısıtma elemanı değiştirilmiştir."
+DMG184,Elektrik bağlantısı kontrol edilmiştir.
+DMG184,Yakıt sıcaklığı test sonrası nominal seviyededir.
+DMG184,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG185,"Bleed air hattında sızıntı tespit edilmiştir, bağlantı kelepçeleri yenilenmiştir."
+DMG185,Sızdırmazlık testinden başarıyla geçmiştir.
+DMG185,Basınç sensörleri kalibre edilmiştir.
+DMG185,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG186,"Motor kontrol ünitesi (ECU) arızalı sinyaller göndermekteydi, yazılım yeniden yüklenmiştir."
+DMG186,Kablo bağlantıları kontrol edilip yeniden sabitlenmiştir.
+DMG186,Fonksiyonel test sonrası sistem düzgün çalışmaktadır.
+DMG186,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG187,"Yakıt dönüş hattında kaçak gözlenmiştir, hortum ve kelepçeler değiştirilmiştir."
+DMG187,Basınç testi sonrası sızdırmazlık sağlanmıştır.
+DMG187,Yakıt hattı yeniden monte edilmiştir.
+DMG187,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG188,"Egzoz sıcaklık sensörü veri sapması göstermiştir, sensör değiştirilmiştir."
+DMG188,Kablo hattı temizlenip koruma spiral borusu eklenmiştir.
+DMG188,Motor sıcaklık kontrol sistemi test edilmiştir.
+DMG188,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG189,"Motor hava çıkış kanalı gevşemiş, bağlantılar tork değerinde sıkılmıştır."
+DMG189,Kanal contası değiştirilmiş ve hizalama yapılmıştır.
+DMG189,Sistem test sonrası onaylanmıştır.
+DMG189,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG190,"Yakıt enjektörleri kirlenmiş, temizlik işlemi uygulanmıştır."
+DMG190,Yakıt püskürtme testi yapılmış ve püskürtme şekli nominal bulunmuştur.
+DMG190,Enjektör bağlantıları yeniden monte edilmiştir.
+DMG190,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG131,"Oksijen maskesi valfi sıkışmış, yeni valf monte edilmiştir."
+DMG131,Maskenin hortum bağlantısı kontrol edilip sızdırmazlık sağlanmıştır.
+DMG131,Sistem basınç testi uygulanmıştır.
+DMG131,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG132,"Acil durum oksijen tüpü basıncı düşük bulunmuş, dolum işlemi yapılmıştır."
+DMG132,Basınç göstergesi kalibre edilmiştir.
+DMG132,Emniyet valfi testi gerçekleştirilmiştir.
+DMG132,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG133,"Basınç kabini sensöründe sapma tespit edilmiştir, sensör değiştirilmiştir."
+DMG133,Kalibrasyon işlemi sonrası sistem testi yapılmıştır.
+DMG133,Veri kaydı incelenerek basınç kontrolü doğrulanmıştır.
+DMG133,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG134,"Acil çıkış kapısı mekanizması sert çalışıyordu, menteşe ve kilit sistemi yağlanmıştır."
+DMG134,Kapı kilidi bağlantısı ayarlanarak test edilmiştir.
+DMG134,Fonksiyonel test sonucu kapı düzgün çalışmaktadır.
+DMG134,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG135,"Yangın ikaz panelinde yanlış uyarı gözlenmiş, devre yeniden kalibre edilmiştir."
+DMG135,Sensör bağlantıları temizlenmiştir.
+DMG135,Panel yazılımı güncellenerek sistem test edilmiştir.
+DMG135,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG136,İlk yardım kutusu eksik malzeme nedeniyle yenilenmiştir.
+DMG136,Kabin ekipleri bilgilendirilmiş ve yerleşimi onaylanmıştır.
+DMG136,Uçuşa uygunluk kontrol listesi güncellenmiştir.
+DMG136,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG137,"Acil durum kaydı bataryası zayıf bulunmuş, batarya değiştirilmiştir."
+DMG137,Bağlantı testleri yapılmış ve kayıt devresi aktif hale getirilmiştir.
+DMG137,Fonksiyonel test sonrası sistem onaylanmıştır.
+DMG137,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG138,"Kabin içi yangın söndürme tüpü tarihi geçmiş, yenisiyle değiştirilmiştir."
+DMG138,Basınç ve güvenlik kontrolleri yapılmıştır.
+DMG138,Etiketleme ve kayıt işlemleri tamamlanmıştır.
+DMG138,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG139,"Basınç kontrol valfi sızdırıyordu, valf değiştirilmiştir."
+DMG139,Bağlantı hattı yeniden monte edilip test edilmiştir.
+DMG139,Sistem sızdırmazlığı doğrulanmıştır.
+DMG139,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG140,"Kabin diferansiyel basınç göstergesi hatalı ölçüm yapmıştır, sensör yenilenmiştir."
+DMG140,Kalibrasyon sonrası göstergenin doğruluğu test edilmiştir.
+DMG140,Basınç regülasyon sistemi çalışması normal bulunmuştur.
+DMG140,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG111,"Yangın söndürücü sistemde basınç kaybı tespit edilmiştir, tüpler doldurulmuştur."
+DMG111,Basınç göstergeleri kalibre edilmiştir.
+DMG111,Yangın söndürme hattı sızdırmazlık testi yapılmıştır.
+DMG111,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG112,"Yakıt seviye sensörü hatalı ölçüm yapmıştır, sensör değiştirilmiştir."
+DMG112,Kalibrasyon sonrası göstergenin doğru çalıştığı doğrulanmıştır.
+DMG112,Yakıt göstergesi devresi kontrol edilmiştir.
+DMG112,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG113,"Yakıt transfer valfi sıkışmış, sökülüp temizlenmiştir."
+DMG113,"Aktüatör bağlantıları yenilenmiş, sistem test edilmiştir."
+DMG113,Valf fonksiyon testi başarılı şekilde tamamlanmıştır.
+DMG113,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG114,"Pitot-statik hattında kaçak belirlenmiş, bağlantı noktaları sıkılmıştır."
+DMG114,Hat temizlenip basınç testi yapılmıştır.
+DMG114,Sensör verileri kalibre edilmiştir.
+DMG114,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG115,"Saldırı açısı sensörü arızalanmış, sensör yenilenmiştir."
+DMG115,Kalibrasyon işlemi sonrası sistem doğrulanmıştır.
+DMG115,Veri aktarım hattı bağlantıları kontrol edilmiştir.
+DMG115,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG116,"Gyro sisteminde sapma tespit edilmiş, cihaz yeniden hizalanmıştır."
+DMG116,Sistem kalibrasyon işlemi tamamlanmıştır.
+DMG116,Gyro bağlantı noktaları izole edilmiştir.
+DMG116,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG117,"Yapay ufuk göstergesi hatalı veri göstermiş, sensör ünitesi değiştirilmiştir."
+DMG117,Elektrik bağlantıları kontrol edilip yeniden izole edilmiştir.
+DMG117,Gösterge test uçuşunda doğrulanmıştır.
+DMG117,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG118,"Altimetre kalibrasyon hatası tespit edilmiştir, cihaz yeniden ayarlanmıştır."
+DMG118,Basınç sensörleri test edilip limit içinde bulunmuştur.
+DMG118,Altimetre bağlantı hattı sızdırmazlık testi yapılmıştır.
+DMG118,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG119,"GPS anteninde sinyal kaybı gözlenmiştir, bağlantı yenilenmiştir."
+DMG119,Anten konnektörü oksidasyondan temizlenmiştir.
+DMG119,GPS sistemi yeniden kalibre edilmiştir.
+DMG119,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG120,"Otomatik gaz kesilme olayı sonrası sistem kontrol edilmiştir, throttle sensörü değiştirilmiştir."
+DMG120,Motor kontrol ünitesi yeniden başlatılmıştır.
+DMG120,Uçuş testi sonrası sistem normal çalışmaya alınmıştır.
+DMG120,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG171,"Yakıt pompası debi düşüklüğü tespit edilmiştir, pompa değiştirilmiştir."
+DMG171,Yakıt filtresi kontrol edilip yenilenmiştir.
+DMG171,Yakıt basıncı test edilerek normal değerlere dönmüştür.
+DMG171,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG172,"Motor yağ filtresi tıkanmış, yeni filtre takılmıştır."
+DMG172,Yağ devresi temizlenmiş ve yeniden doldurulmuştur.
+DMG172,Motor çalıştırılarak basınç kontrolü yapılmıştır.
+DMG172,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG173,"Egzoz hattı bağlantı flanşı gevşemiş, tork değerinde sıkılmıştır."
+DMG173,Sızdırmazlık contası değiştirilmiştir.
+DMG173,Egzoz gaz kaçağı testi yapılmıştır.
+DMG173,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG174,"Motor hava giriş filtresi kirlenmiş, filtre elemanı değiştirilmiştir."
+DMG174,Hava hattı temizlenmiş ve bağlantı elemanları sabitlenmiştir.
+DMG174,Motor performans testi sonrası değerler normal bulunmuştur.
+DMG174,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG175,"Yağ seviye sensörü arızalı bulunmuş, yeni sensör monte edilmiştir."
+DMG175,Sensör kablo hattı izole edilip yeniden bağlanmıştır.
+DMG175,Kalibrasyon işlemi tamamlanmıştır.
+DMG175,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG176,"Motor ısıtma sistemi çalışmıyordu, termostat değiştirilmiştir."
+DMG176,Soğutma sıvısı yenilenmiştir.
+DMG176,Sistem devreye alınarak sıcaklık regülasyonu test edilmiştir.
+DMG176,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG177,"Yakıt hattında mikroskobik sızıntı tespit edilmiştir, hat ve bağlantı flanşları yenilenmiştir."
+DMG177,Basınç testi sonrası sistem uygun bulunmuştur.
+DMG177,Yakıt doldurma hattı izole edilmiştir.
+DMG177,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG178,"Egzoz gaz sıcaklık sensörü yanlış değer göstermiş, sensör değiştirilmiştir."
+DMG178,Bağlantı hattı yeniden monte edilip test edilmiştir.
+DMG178,Motor performans kontrolünde değerler doğrulanmıştır.
+DMG178,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG179,"Yağlama pompası gürültülü çalışıyordu, rulman değişimi yapılmıştır."
+DMG179,Pompa temizlenip yeniden monte edilmiştir.
+DMG179,Basınç testi sonrası sistem onaylanmıştır.
+DMG179,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG180,"Motor bağlantı traversinde çatlak tespit edilmiştir, kaynak onarımı uygulanmıştır."
+DMG180,Yapısal test sonrası bağlantı plakası yenilenmiştir.
+DMG180,Titreşim ölçümleri sınır değerler içinde bulunmuştur.
+DMG180,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG121,"Kabin interkom sistemi çalışmıyordu, hat bağlantıları kontrol edilip konnektörler yenilenmiştir."
+DMG121,"Mikrofon modülü değiştirilmiş, sistem fonksiyon testi başarıyla tamamlanmıştır."
+DMG121,Kabin ve kokpit arasındaki ses iletimi doğrulanmıştır.
+DMG121,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG122,"Kokpit ses iletişim devresinde parazit tespit edilmiştir, kablo izolasyonu yenilenmiştir."
+DMG122,Bağlantı noktaları temizlenip konnektörler sabitlenmiştir.
+DMG122,Sistem testi sonucunda iletişim kalitesi onaylanmıştır.
+DMG122,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG123,"Anons sistemi amplifikatörü arızalı bulunmuş, yenisiyle değiştirilmiştir."
+DMG123,Hoparlör bağlantıları kontrol edilip ses testi yapılmıştır.
+DMG123,Anons sistemi kalibrasyonu tamamlanmıştır.
+DMG123,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG124,"Wi-Fi anteninde sinyal zayıflığı tespit edilmiştir, anten bağlantısı yenilenmiştir."
+DMG124,Kablo güzergahı düzenlenmiş ve sinyal gücü test edilmiştir.
+DMG124,Yedek anten devreye alınmıştır.
+DMG124,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG125,"Eğlence ekranı çalışmıyordu, güç devresi kontrol edilmiştir."
+DMG125,Ekran modülü değiştirilmiş ve sistem test edilmiştir.
+DMG125,Yazılım güncellemesi sonrası görüntü kalitesi onaylanmıştır.
+DMG125,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG126,"Mutfak priz devresi enerjisizdi, sigorta değiştirilmiş ve devre test edilmiştir."
+DMG126,Kablo bağlantı kutusu yeniden izole edilmiştir.
+DMG126,Yük testinden başarıyla geçmiştir.
+DMG126,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG127,"Kabin aydınlatma kontrol sistemi tepki vermiyordu, kontrol paneli yeniden başlatılmıştır."
+DMG127,Arızalı LED sürücü değiştirilmiş ve sistem test edilmiştir.
+DMG127,Işık seviyesi ayarları kalibre edilmiştir.
+DMG127,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG128,"Koltuk yatırma motoru sıkışmış, motor temizlenip yeniden monte edilmiştir."
+DMG128,Kontrol düğmesi bağlantısı kontrol edilmiştir.
+DMG128,Fonksiyon testi sonrası koltuk hareketi normale dönmüştür.
+DMG128,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG129,"Bagaj dolabı mandalı kırılmış, yeni mandal monte edilmiştir."
+DMG129,Yay mekanizması yağlanmış ve işlevselliği kontrol edilmiştir.
+DMG129,Kilit sistemi fonksiyonel testten geçmiştir.
+DMG129,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG130,"Acil çıkış ışığı arızalı bulunmuş, LED modülü değiştirilmiştir."
+DMG130,Güç hattı kontrol edilip bağlantılar yenilenmiştir.
+DMG130,Test sırasında sistemin düzgün çalıştığı doğrulanmıştır.
+DMG130,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG091,"Ana iniş takımı yağ kaçağı tespit edilmiş, keçeler değiştirilmiş ve sistem test edilmiştir."
+DMG091,Hidrolik bağlantılar kontrol edilerek tork değerleri ayarlanmıştır.
+DMG091,İniş takımı fonksiyon testinden başarıyla geçmiştir.
+DMG091,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG092,"Fren tork çubuğu çatlağı tespit edilmiş, ilgili parça değiştirilmiştir."
+DMG092,Fren bağlantı elemanları kontrol edilip yenilenmiştir.
+DMG092,Frenleme testi uygulanarak düzgün çalıştığı doğrulanmıştır.
+DMG092,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG093,Hidrolik boru sürtünme kaynaklı aşınma giderilmiştir.
+DMG093,"Hasarlı hat değiştirilmiş, sistem basınç testi uygulanmıştır."
+DMG093,Hidrolik hattın sabitleme kelepçeleri yenilenmiştir.
+DMG093,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG094,"Kanat kaplama panelinde deformasyon gözlenmiş, panel onarılmıştır."
+DMG094,Hasarlı kısım kesilerek yeni parça monte edilmiştir.
+DMG094,Yüzey düzleştirilip koruyucu kaplama uygulanmıştır.
+DMG094,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG095,"Motor pylon bağlantı bölgesinde çatlak tespit edilmiştir, yapısal onarım yapılmıştır."
+DMG095,Bağlantı civataları yenilenmiştir.
+DMG095,Ultrasonik test sonrası bölge onaylanmıştır.
+DMG095,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG096,"Motor bağlantı civataları gevşemiş, tork değerleri üretici limitlerine göre sıkılmıştır."
+DMG096,Motor bağlantı burçları kontrol edilip yenilenmiştir.
+DMG096,Titreşim kontrol testi başarıyla tamamlanmıştır.
+DMG096,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG097,"İtki bağlantısında hizasızlık tespit edilmiştir, bağlantı elemanları yeniden ayarlanmıştır."
+DMG097,Motor hizalama işlemi yapılmıştır.
+DMG097,İtki ekseni ölçümleri nominal değerlere getirilmiştir.
+DMG097,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG098,"Motor giriş dudağında ezilme gözlenmiş, panel onarımı yapılmıştır."
+DMG098,Hasarlı yüzey epoksi dolgu ile düzeltilmiştir.
+DMG098,Boyama işlemi sonrası yüzey koruması sağlanmıştır.
+DMG098,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG099,"Fan kanadı uç kısmında aşınma tespit edilmiştir, kanat değiştirilmiştir."
+DMG099,Motor balans kontrolü yapılmış ve test edilmiştir.
+DMG099,Fan muhafazası temizlenip kontrol edilmiştir.
+DMG099,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG100,"Egzoz nozulu deformasyonu tespit edilmiş, parça ısıtılarak hizalanmıştır."
+DMG100,Gerekli durumlarda yeni nozul monte edilmiştir.
+DMG100,Sistem test edilip motor performansı onaylanmıştır.
+DMG100,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG161,"Ana iniş takımı fren disklerinde çatlak tespit edilmiştir, disk seti değiştirilmiştir."
+DMG161,Fren piston contaları yenilenmiş ve sistem test edilmiştir.
+DMG161,Frenleme performans testi başarıyla tamamlanmıştır.
+DMG161,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG162,"İniş takımı yönlendirme sensörü arızalı bulunmuştur, sensör değiştirilmiştir."
+DMG162,Elektrik bağlantı kabloları izole edilip yeniden monte edilmiştir.
+DMG162,Fonksiyon testi sonucu normal değerler elde edilmiştir.
+DMG162,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG163,"İniş takımı tork bağlantısında gevşeklik tespit edilmiştir, bağlantılar tork anahtarı ile sıkılmıştır."
+DMG163,Bağlantı burçları kontrol edilmiştir.
+DMG163,Hizalama ölçümleri nominal sınırlar içinde bulunmuştur.
+DMG163,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG164,"İniş takımı kilitleme pimi deformasyona uğramış, yeni pim monte edilmiştir."
+DMG164,Kilitleme mekanizması yağlanarak test edilmiştir.
+DMG164,Fonksiyon testi başarılı olmuştur.
+DMG164,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG165,"Fren hidrolik hattında kaçak belirlenmiş, hat değiştirilmiştir."
+DMG165,Hidrolik sıvı dolumu yapılmıştır.
+DMG165,Sistem basınç testi uygulanmıştır.
+DMG165,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG166,"İniş takımı basınç sensörü hatalı ölçüm yapmıştır, sensör değiştirilmiştir."
+DMG166,Sistem kalibrasyonu yapılmış ve değerler kontrol edilmiştir.
+DMG166,Sensör bağlantısı yeniden sabitlenmiştir.
+DMG166,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG167,"Frenleme kontrol valfi düzgün çalışmıyordu, valf sökülüp temizlenmiştir."
+DMG167,İç sızdırmazlık elemanları yenilenmiştir.
+DMG167,Fren sistem testi başarıyla tamamlanmıştır.
+DMG167,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG168,"Direksiyon kontrol bağlantısında aşınma gözlenmiş, bağlantı burçları yenilenmiştir."
+DMG168,Mekanik bağlantı noktaları yağlanmıştır.
+DMG168,Fonksiyonel yönlendirme testi yapılmıştır.
+DMG168,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG169,"Flap tahrik sistemi gürültülü çalışıyordu, dişli kutusu açılıp yağ değişimi yapılmıştır."
+DMG169,Dişli kutusu contaları yenilenmiştir.
+DMG169,Sistem test sonrası düzgün çalışmaktadır.
+DMG169,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG170,"Kanat bağlantı noktası perçin hattında korozyon tespit edilmiştir, etkilenen perçinler değiştirilmiştir."
+DMG170,Yüzey temizlenip koruyucu kaplama uygulanmıştır.
+DMG170,NDT muayenesi sonrası yapısal bütünlük onaylanmıştır.
+DMG170,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG071,"Motor aşırı sıcaklık uyarısı alınmış, soğutma hava akışı kontrol edilmiştir."
+DMG071,Yağ basıncı ve sıcaklık sensörleri kalibre edilmiştir.
+DMG071,Motor çalışma süresi kaydı incelenerek bakım aralığı öne çekilmiştir.
+DMG071,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG072,"Motor surge olayı sonrası kompresör kanatları incelenmiş, deformasyon tespit edilmemiştir."
+DMG072,"Yakıt akışı yeniden ayarlanmış, kontrol ünitesi kalibre edilmiştir."
+DMG072,Motor test standında başarıyla denenmiştir.
+DMG072,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG073,Kompresör durması sonrası hava besleme hattı kontrol edilmiştir.
+DMG073,Bleed valf pozisyonu yeniden ayarlanarak motor yeniden çalıştırılmıştır.
+DMG073,Yakıt kontrol ünitesi kontrol edilip temizlenmiştir.
+DMG073,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG074,"Türbin kanatlarında çatlak tespit edilmiş, ilgili kanatlar değiştirilmiştir."
+DMG074,NDT testi sonrası rotor balansı yapılmıştır.
+DMG074,Türbin montajı tamamlanıp performans testi uygulanmıştır.
+DMG074,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG075,"Yağ basıncı düşüşü sonrası sistem incelenmiş, filtre tıkanıklığı giderilmiştir."
+DMG075,Yağ pompası değişimi yapılmıştır.
+DMG075,Yağ devresi temizlenip yeniden devreye alınmıştır.
+DMG075,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG076,"Ateşleme sistemi arızalanmış, igniter kablosu ve plug elemanları değiştirilmiştir."
+DMG076,Ateşleme devresi test edilerek düzgün çalıştığı doğrulanmıştır.
+DMG076,Yedek ateşleme sistemi devreye alınmıştır.
+DMG076,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG077,"Yakıt akışında dalgalanma gözlenmiş, kontrol valfi değiştirilmiştir."
+DMG077,Yakıt regülatörü test edilmiş ve basınç ayarı yapılmıştır.
+DMG077,Yakıt hattı temizlenip yeniden monte edilmiştir.
+DMG077,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG078,"Motor titreşim değerleri normalin üzerinde bulunmuştur, balans kontrolü yapılmıştır."
+DMG078,Titreşim sensörleri kalibre edilmiştir.
+DMG078,Motor bağlantı elemanları tork değerinde sıkılmıştır.
+DMG078,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG079,"APU marş motoru arızalanmış, ünite değiştirilmiştir."
+DMG079,Elektrik bağlantıları kontrol edilip sistem test edilmiştir.
+DMG079,APU çalıştırma sonrası sıcaklık ve basınç değerleri normal bulunmuştur.
+DMG079,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG080,"Jeneratörde aşırı gerilim hatası tespit edilmiş, regülatör devresi değiştirilmiştir."
+DMG080,Jeneratör yük testi başarıyla tamamlanmıştır.
+DMG080,Bağlantı terminalleri temizlenip yeniden izole edilmiştir.
+DMG080,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG021,Aileron bağlantı noktalarında gevşeme tespit edilerek bağlantı elemanları tork değerinde sıkılmıştır.
+DMG021,Aileron kontrol kolları hizalanmış ve yağlama işlemi uygulanmıştır.
+DMG021,"Aileron sistemi fonksiyon testinden geçirilmiş, normal çalıştığı doğrulanmıştır."
+DMG021,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG022,"Hidrolik akümülatör üzerindeki sızıntı giderilmiş, o-ring contaları değiştirilmiştir."
+DMG022,Basınç testi uygulanarak sistemde kaçak olmadığı doğrulanmıştır.
+DMG022,Hidrolik sıvısı yenilenmiş ve filtre değişimi yapılmıştır.
+DMG022,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG023,"Ana iniş takımı tork bağlantısında aşınma tespit edilmiş, bağlantı pimi değiştirilmiştir."
+DMG023,Bağlantı burçları kontrol edilmiş ve uygun ölçüde yenilenmiştir.
+DMG023,İniş takımı yük testi uygulanarak sağlamlığı doğrulanmıştır.
+DMG023,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG024,"Amortisör azot basıncı düşük bulunmuş, üretici limitlerine göre yeniden doldurulmuştur."
+DMG024,Amortisör sızdırmazlık elemanları kontrol edilip yenilenmiştir.
+DMG024,İniş takımı iniş/geri çekme testinden başarıyla geçmiştir.
+DMG024,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG025,İniş takımı kapak mekanizmasında sıkışma tespit edilerek menteşe noktaları temizlenmiş ve yağlanmıştır.
+DMG025,Hidrolik silindir basıncı test edilmiştir.
+DMG025,Kapağın kilitleme sistemi ayarlanarak fonksiyonel kontrol yapılmıştır.
+DMG025,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG026,Tekerlek rulmanında aşınma tespit edilerek rulman değiştirilmiştir.
+DMG026,"Tekerlek göbeği temizlenmiş, gresleme işlemi yapılmıştır."
+DMG026,Montaj sonrası dönme testi uygulanarak serbest hareket sağlanmıştır.
+DMG026,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG027,"Fren sisteminde aşırı ısınma gözlenmiş, fren diskleri kontrol edilip gerek görülenler değiştirilmiştir."
+DMG027,Fren hatları basınç testi sonrası yeniden monte edilmiştir.
+DMG027,Fren soğutma sistemi kontrol edilerek normal çalıştığı doğrulanmıştır.
+DMG027,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG028,"Oksijen sistemi hattında kaçak tespit edilmiş, bağlantı elemanları değiştirilmiştir."
+DMG028,Dolum vanası test edilip sızdırmazlık sağlanmıştır.
+DMG028,Sistem basınç testi sonrası uçuşa uygun bulunmuştur.
+DMG028,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG029,Kabin sıcaklık sensörü hatalı veri ürettiği için yenisiyle değiştirilmiştir.
+DMG029,Klimatizasyon sistemi kalibrasyon testi yapılmıştır.
+DMG029,Sensör bağlantı kabloları izole edilmiştir.
+DMG029,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG030,"Ön cam çatlağı tespit edilmiş, hasarlı cam çıkarılarak yenisi monte edilmiştir."
+DMG030,Montaj sonrası sızdırmazlık testi yapılmıştır.
+DMG030,Cam ısıtma devresi kontrol edilip normal çalıştığı doğrulanmıştır.
+DMG030,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG061,"Kanat üst yüzeyinde buz birikimi tespit edilmiştir, de-icing sistemi çalıştırılarak temizleme yapılmıştır."
+DMG061,Uçuş öncesi kontrol sırasında kanat yüzeyi sıcak hava ile buzdan arındırılmıştır.
+DMG061,Buzlanmayı önleyici kimyasal uygulanmıştır.
+DMG061,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG062,"Klima ünitesinde hava akışı dengesizliği tespit edilmiş, filtre ve fan temizlenmiştir."
+DMG062,Klimatizasyon modülü yeniden kalibre edilmiştir.
+DMG062,Soğutucu gaz seviyesi kontrol edilip gerek görülen ekleme yapılmıştır.
+DMG062,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG063,"Kabin havalandırma fanı arızalanmış, motoru değiştirilmiştir."
+DMG063,Hava kanalları temizlenmiş ve sistem test edilmiştir.
+DMG063,Fan kontrol devresi yenilenmiş ve fonksiyon testi başarıyla tamamlanmıştır.
+DMG063,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG064,"Kargo sıcaklık kontrol ünitesi hatalı ölçüm yapmıştır, sensör değiştirilmiştir."
+DMG064,"Sistem kalibrasyonu yeniden yapılmış, sıcaklık aralığı ayarlanmıştır."
+DMG064,Soğutma hattı izolasyonu yenilenmiştir.
+DMG064,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG065,"Uçuş veri kayıt cihazı veri kaydı yapmamış, güç hattı kontrol edilmiştir."
+DMG065,Kayıt cihazı yeniden başlatılarak fonksiyon testi uygulanmıştır.
+DMG065,Veri depolama modülü değiştirilmiştir.
+DMG065,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG066,"Kokpit ses kayıt cihazı kayıtta kesinti yaşamıştır, mikrofon devresi yenilenmiştir."
+DMG066,Güç bağlantısı kontrol edilerek yedek sistem devreye alınmıştır.
+DMG066,Veri bütünlüğü doğrulanmıştır.
+DMG066,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG067,"Basınçlandırma valfi sıkışmış, valf sökülüp temizlenmiş ve fonksiyonel test yapılmıştır."
+DMG067,"Valf motoru yeniden hizalanmış, sistem basınç testi uygulanmıştır."
+DMG067,Basınç sensörleri kalibre edilmiştir.
+DMG067,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG068,"Bleed air hattında kirlenme tespit edilmiştir, hat temizliği yapılmıştır."
+DMG068,"Filtre elemanları değiştirilmiş, hava kalitesi kontrol edilmiştir."
+DMG068,Bleed sistemi performans testi yapılmıştır.
+DMG068,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG069,"Hidrolik sıvısında kontaminasyon saptanmıştır, sıvı değiştirilmiş ve sistem yıkanmıştır."
+DMG069,Hidrolik filtreler yenilenmiştir.
+DMG069,Hidrolik hatlar temizlenmiş ve basınç testi yapılmıştır.
+DMG069,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG070,"Yakıt numunesinde tortu tespit edilmiştir, tank boşaltılıp temizlenmiştir."
+DMG070,Yakıt filtresi ve pompası değiştirilmiştir.
+DMG070,Sistem yeniden doldurulup kaçak kontrolü yapılmıştır.
+DMG070,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG191,"Egzoz bağlantı flanşı çatlamış, kaynak onarımı uygulanmıştır."
+DMG191,Bağlantı civataları değiştirilmiş ve tork değerleri ayarlanmıştır.
+DMG191,Egzoz hattı sızdırmazlık testi başarıyla tamamlanmıştır.
+DMG191,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG192,"Egzoz ısı kalkanı gevşemiş, sabitleme noktaları yeniden monte edilmiştir."
+DMG192,Korozyonlu bölgeler temizlenmiş ve ısıya dayanıklı boya uygulanmıştır.
+DMG192,Titreşim kontrol testi yapılmıştır.
+DMG192,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG193,"Motor travers bağlantısı gevşemiş, civatalar tork değerinde sıkılmıştır."
+DMG193,Bağlantı plakası kontrol edilip gerek görülenler değiştirilmiştir.
+DMG193,Titreşim ölçümü sonrası sistem uygun bulunmuştur.
+DMG193,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG194,"Motor titreşim sönümleyici eleman aşınmış, yeni amortisör takılmıştır."
+DMG194,Bağlantı burçları kontrol edilmiştir.
+DMG194,Test sonrası titreşim seviyesi düşmüştür.
+DMG194,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG195,"Egzoz çıkış nozulu hizasız çalışıyordu, hizalama işlemi yapılmıştır."
+DMG195,Bağlantı halkaları değiştirilmiştir.
+DMG195,Nozul performans testi sonucunda değerler normaldir.
+DMG195,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG196,"Isı kalkanı bağlantı sacı çatlamış, yeni sac monte edilmiştir."
+DMG196,Isı geçişi ölçülerek sınır değerler içinde bulunmuştur.
+DMG196,Koruyucu izolasyon yenilenmiştir.
+DMG196,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG197,"Egzoz borusu iç yüzeyinde deformasyon gözlenmiştir, boru değiştirilmiştir."
+DMG197,Bağlantı flanşları yeniden hizalanmıştır.
+DMG197,Egzoz hattı basınç testi sonrası onaylanmıştır.
+DMG197,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG198,"Motor kontrol panelinde göstergeler arızalıydı, panel modülü değiştirilmiştir."
+DMG198,Veri bağlantı kablosu kontrol edilip sabitlenmiştir.
+DMG198,Fonksiyon testi sonrası tüm değerler doğru gösterilmektedir.
+DMG198,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG199,"Motor sıcaklık regülasyon hattında kaçak tespit edilmiştir, bağlantılar sıkılmıştır."
+DMG199,Hattın sızdırmazlık elemanları yenilenmiştir.
+DMG199,Basınç testi sonucunda sistem uygun bulunmuştur.
+DMG199,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.
+DMG200,"Motor titreşim ölçüm sistemi hatalı sinyal üretmiştir, sensör değiştirilmiştir."
+DMG200,Kablo hattı yeniden monte edilip test edilmiştir.
+DMG200,Titreşim analizinde sistem düzgün çalışmaktadır.
+DMG200,İncelemeler sonrasında bulunan hasarlar limit içi kaldığından bir işlem yapılmamıştır.

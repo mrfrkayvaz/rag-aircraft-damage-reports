@@ -1,0 +1,201 @@
+Kod,Hasar Türü,Etkilenen Parça (affected_part)
+DMG001,Kuş çarpması,Genel Yapısal Alan / Diğer Sistem
+DMG002,Şimşek çarpması,Genel Yapısal Alan / Diğer Sistem
+DMG003,Sert iniş,İniş Takımı Sistemi
+DMG004,Yakıt kaçağı,Yakıt Sistemi / Yakıt Hattı
+DMG005,Hidrolik sistem kaçağı,Hidrolik Hat / Aktüatör
+DMG006,Lastik patlaması,Genel Yapısal Alan / Diğer Sistem
+DMG007,Motor kompresör kanadı erozyonu,Motor Ünitesi / Egzoz Hattı
+DMG008,Motor yağ kirlenmesi,Motor Ünitesi / Egzoz Hattı
+DMG009,Bleed air hattı kaçağı,Genel Yapısal Alan / Diğer Sistem
+DMG010,Kabin basınç kaybı,Genel Yapısal Alan / Diğer Sistem
+DMG011,Pitot tüpü tıkanması,Genel Yapısal Alan / Diğer Sistem
+DMG012,Statik port kirliliği,Genel Yapısal Alan / Diğer Sistem
+DMG013,Yakıt filtresi tıkanması,Yakıt Sistemi / Yakıt Hattı
+DMG014,APU aşırı ısınması,Genel Yapısal Alan / Diğer Sistem
+DMG015,Bleed valfi sıkışması,Genel Yapısal Alan / Diğer Sistem
+DMG016,Ters itki sistemi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG017,Spoiler aktüatör arızası,Genel Yapısal Alan / Diğer Sistem
+DMG018,Flap rayı hasarı,Genel Yapısal Alan / Diğer Sistem
+DMG019,Rudder servo arızası,Genel Yapısal Alan / Diğer Sistem
+DMG020,Elevator kontrol kablosu aşınması,Genel Yapısal Alan / Diğer Sistem
+DMG021,Aileron bağlantı gevşemesi,Genel Yapısal Alan / Diğer Sistem
+DMG022,Hidrolik akümülatör kaçağı,Hidrolik Hat / Aktüatör
+DMG023,Ana iniş takımı tork bağlantısı hasarı,İniş Takımı Sistemi
+DMG024,Amortisör azot kaybı,Genel Yapısal Alan / Diğer Sistem
+DMG025,İniş takımı kapağı sıkışması,Genel Yapısal Alan / Diğer Sistem
+DMG026,Tekerlek rulman arızası,İniş Takımı Sistemi
+DMG027,Fren sistemi aşırı ısınması,Genel Yapısal Alan / Diğer Sistem
+DMG028,Oksijen sistemi kaçağı,Genel Yapısal Alan / Diğer Sistem
+DMG029,Kabin sıcaklık sensörü arızası,Elektrik Sistemi / Sensör Ağı
+DMG030,Ön cam çatlağı,Genel Yapısal Alan / Diğer Sistem
+DMG031,Navigasyon lambası arızası,Genel Yapısal Alan / Diğer Sistem
+DMG032,Taksi lambası arızası,Genel Yapısal Alan / Diğer Sistem
+DMG033,Yakıt pompası arızası,Yakıt Sistemi / Yakıt Hattı
+DMG034,Yakıt tankı havalandırma tıkanması,Yakıt Sistemi / Yakıt Hattı
+DMG035,Hidrolik pompa sıkışması,Hidrolik Hat / Aktüatör
+DMG036,Hidrolik basınç düşüşü,Hidrolik Hat / Aktüatör
+DMG037,Bleed air aşırı sıcaklığı,Genel Yapısal Alan / Diğer Sistem
+DMG038,Elektrik kısa devresi,Elektrik Sistemi / Sensör Ağı
+DMG039,AC hattı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG040,DC jeneratör arızası,Genel Yapısal Alan / Diğer Sistem
+DMG041,Batarya aşırı ısınması,Genel Yapısal Alan / Diğer Sistem
+DMG042,Aviyonik bölmesinde su girişi,Genel Yapısal Alan / Diğer Sistem
+DMG043,Radar altimetre arızası,Genel Yapısal Alan / Diğer Sistem
+DMG044,Transponder arızası,Genel Yapısal Alan / Diğer Sistem
+DMG045,VHF anten hasarı,Genel Yapısal Alan / Diğer Sistem
+DMG046,HF anten kopması,Genel Yapısal Alan / Diğer Sistem
+DMG047,Otopilot servo arızası,Genel Yapısal Alan / Diğer Sistem
+DMG048,Uçuş yönlendirme sistemi hatası,Genel Yapısal Alan / Diğer Sistem
+DMG049,Yaw damper arızası,Genel Yapısal Alan / Diğer Sistem
+DMG050,Stabilizer trim arızası,Genel Yapısal Alan / Diğer Sistem
+DMG051,Trim göstergesi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG052,Gövde panel çatlağı,Gövde Paneli / Yapısal Bölge
+DMG053,Kanat yüzeyi ezilmesi,Kanat Yüzeyi / Kanat Paneli
+DMG054,Kanat ön kenarı aşınması,Kanat Yüzeyi / Kanat Paneli
+DMG055,Kompozit yüzey delaminasyonu,Genel Yapısal Alan / Diğer Sistem
+DMG056,Kuyruk konisi yapısal çatlak,Genel Yapısal Alan / Diğer Sistem
+DMG057,Kargo kapağı sızdırmazlık sorunu,Kapı / Kargo Kapağı
+DMG058,Yolcu kapısı kilit arızası,Kapı / Kargo Kapağı
+DMG059,Cam ısıtma elemanı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG060,Buz çözme sistemi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG061,Kanat üstü buz birikimi,Kanat Yüzeyi / Kanat Paneli
+DMG062,Klima ünitesi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG063,Kabin havalandırma fanı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG064,Kargo sıcaklık kontrol ünitesi arızası,Kapı / Kargo Kapağı
+DMG065,Uçuş veri kayıt cihazı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG066,Ses kayıt cihazı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG067,Basınçlandırma valfi sıkışması,Genel Yapısal Alan / Diğer Sistem
+DMG068,Bleed air kirlenmesi,Genel Yapısal Alan / Diğer Sistem
+DMG069,Hidrolik sıvı kirlenmesi,Hidrolik Hat / Aktüatör
+DMG070,Yakıt kirlenmesi,Yakıt Sistemi / Yakıt Hattı
+DMG071,Motor aşırı sıcaklığı,Motor Ünitesi / Egzoz Hattı
+DMG072,Motor patlaması (surge),Motor Ünitesi / Egzoz Hattı
+DMG073,Kompresör durması,Genel Yapısal Alan / Diğer Sistem
+DMG074,Türbin kanadı çatlağı,Genel Yapısal Alan / Diğer Sistem
+DMG075,Yağ basıncı düşüşü,Genel Yapısal Alan / Diğer Sistem
+DMG076,Ateşleme sistemi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG077,Yakıt akış dalgalanması,Yakıt Sistemi / Yakıt Hattı
+DMG078,Motor titreşim anormalliği,Motor Ünitesi / Egzoz Hattı
+DMG079,APU marş motoru arızası,Motor Ünitesi / Egzoz Hattı
+DMG080,Jeneratör aşırı gerilim hatası,Genel Yapısal Alan / Diğer Sistem
+DMG081,Gerilim regülatörü arızası,Genel Yapısal Alan / Diğer Sistem
+DMG082,Yer güç bağlantı hasarı,Genel Yapısal Alan / Diğer Sistem
+DMG083,Kanat kökü çatlağı,Kanat Yüzeyi / Kanat Paneli
+DMG084,Flap asimetrisi,Genel Yapısal Alan / Diğer Sistem
+DMG085,Spoiler bağlantı hasarı,Genel Yapısal Alan / Diğer Sistem
+DMG086,Rudder denge ağırlığı düşmesi,Genel Yapısal Alan / Diğer Sistem
+DMG087,Yatay stabilizatör yüzey çatlağı,Genel Yapısal Alan / Diğer Sistem
+DMG088,Dikey kuyruk korozyonu,Metal Yüzey / Gövde Altı
+DMG089,Statik çubuk (wick) kopması,Genel Yapısal Alan / Diğer Sistem
+DMG090,Ön iniş takımı kapağı aktüatör kaçağı,İniş Takımı Sistemi
+DMG091,Ana iniş takımı yağ kaybı,İniş Takımı Sistemi
+DMG092,Fren tork çubuğu kırığı,Genel Yapısal Alan / Diğer Sistem
+DMG093,Hidrolik boru sürtünmesi,Hidrolik Hat / Aktüatör
+DMG094,Kanat kaplama hasarı,Kanat Yüzeyi / Kanat Paneli
+DMG095,Motor pylon çatlağı,Motor Ünitesi / Egzoz Hattı
+DMG096,Motor bağlantı civatası gevşemesi,Motor Ünitesi / Egzoz Hattı
+DMG097,İtki bağlantısı hizasızlığı,Genel Yapısal Alan / Diğer Sistem
+DMG098,Motor giriş dudağı ezilmesi,Motor Ünitesi / Egzoz Hattı
+DMG099,Fan kanadı uç aşınması,Genel Yapısal Alan / Diğer Sistem
+DMG100,Egzoz nozulu deformasyonu,Motor Ünitesi / Egzoz Hattı
+DMG101,Yakıt hattı titreşim aşınması,Yakıt Sistemi / Yakıt Hattı
+DMG102,Kargo tabanı panel hasarı,Gövde Paneli / Yapısal Bölge
+DMG103,Kabin panel delaminasyonu,Gövde Paneli / Yapısal Bölge
+DMG104,Koltuk rayı korozyonu,Metal Yüzey / Gövde Altı
+DMG105,Lavabo gider kaçağı,Genel Yapısal Alan / Diğer Sistem
+DMG106,İçme suyu hattı çatlağı,Genel Yapısal Alan / Diğer Sistem
+DMG107,Atık tankı havalandırma tıkanması,Genel Yapısal Alan / Diğer Sistem
+DMG108,Acil aydınlatma devresi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG109,Tahliye kaydı şişirme gaz kaçağı,Genel Yapısal Alan / Diğer Sistem
+DMG110,Duman dedektörü arızası,Genel Yapısal Alan / Diğer Sistem
+DMG111,Yangın söndürücü basınç kaybı,Genel Yapısal Alan / Diğer Sistem
+DMG112,Yakıt seviye sensörü sapması,Elektrik Sistemi / Sensör Ağı
+DMG113,Yakıt transfer valfi sıkışması,Yakıt Sistemi / Yakıt Hattı
+DMG114,Pitot-statik kaçağı,Genel Yapısal Alan / Diğer Sistem
+DMG115,Saldırı açısı sensörü arızası,Elektrik Sistemi / Sensör Ağı
+DMG116,Gyro sürüklenmesi,Genel Yapısal Alan / Diğer Sistem
+DMG117,Yapay ufuk göstergesi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG118,Altimetre kalibrasyon hatası,Genel Yapısal Alan / Diğer Sistem
+DMG119,GPS anten arızası,Genel Yapısal Alan / Diğer Sistem
+DMG120,Otomatik gaz kesilmesi,Genel Yapısal Alan / Diğer Sistem
+DMG121,Kabin interkom arızası,Genel Yapısal Alan / Diğer Sistem
+DMG122,Kokpit ses iletişim hatası,Genel Yapısal Alan / Diğer Sistem
+DMG123,Anons sistemi amplifikatör arızası,Genel Yapısal Alan / Diğer Sistem
+DMG124,Wi-Fi anten hasarı,Genel Yapısal Alan / Diğer Sistem
+DMG125,Eğlence ekranı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG126,Mutfak priz devresi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG127,Kabin aydınlatma kontrol arızası,Genel Yapısal Alan / Diğer Sistem
+DMG128,Koltuk yatırma motoru sıkışması,Motor Ünitesi / Egzoz Hattı
+DMG129,Bagaj dolabı mandal kırığı,Genel Yapısal Alan / Diğer Sistem
+DMG130,Acil çıkış ışığı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG131,Hava veri bilgisayarı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG132,IRS hizalama hatası,Genel Yapısal Alan / Diğer Sistem
+DMG133,Uçuş kontrol hidrolik servo kaçağı,Hidrolik Hat / Aktüatör
+DMG134,Elevator trim sıkışması,Genel Yapısal Alan / Diğer Sistem
+DMG135,Rudder pedal sertliği,Genel Yapısal Alan / Diğer Sistem
+DMG136,Spoiler menteşe aşınması,Genel Yapısal Alan / Diğer Sistem
+DMG137,İtki kolu sürtünme anormalliği,Genel Yapısal Alan / Diğer Sistem
+DMG138,Motor yangın sensörü arızası,Motor Ünitesi / Egzoz Hattı
+DMG139,Kanat buz önleme valfi sıkışması,Kanat Yüzeyi / Kanat Paneli
+DMG140,Pylon kaplama panel çatlağı,Gövde Paneli / Yapısal Bölge
+DMG141,Motor kapak kilidi arızası,Motor Ünitesi / Egzoz Hattı
+DMG142,Nacelle titreşimi,Genel Yapısal Alan / Diğer Sistem
+DMG143,Ters itki kılıfı sıkışması,Genel Yapısal Alan / Diğer Sistem
+DMG144,Kargo duman dedektörü yanlış alarm,Kapı / Kargo Kapağı
+DMG145,Lavabo duman dedektörü kirlenmesi,Genel Yapısal Alan / Diğer Sistem
+DMG146,Aviyonik soğutma fanı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG147,Elektrik bağlantı korozyonu,Elektrik Sistemi / Sensör Ağı
+DMG148,Yıldırım yanığı izi,Genel Yapısal Alan / Diğer Sistem
+DMG149,Boya yüzeyi aşınması,Genel Yapısal Alan / Diğer Sistem
+DMG150,Hava girişi sıcaklık sensörü arızası,Elektrik Sistemi / Sensör Ağı
+DMG151,Hidrolik dönüş filtresi tıkanması,Hidrolik Hat / Aktüatör
+DMG152,Kontrol yüzeyi titreşim olayı,Genel Yapısal Alan / Diğer Sistem
+DMG153,Kuyruk düzlem aktüatör kaçağı,Genel Yapısal Alan / Diğer Sistem
+DMG154,Elevator servo sıkışması,Genel Yapısal Alan / Diğer Sistem
+DMG155,Kanat ucu navigasyon ışığı çatlaması,Kanat Yüzeyi / Kanat Paneli
+DMG156,Taksi lambası cam hasarı,Genel Yapısal Alan / Diğer Sistem
+DMG157,Kabin irtifa uyarı hatası,Genel Yapısal Alan / Diğer Sistem
+DMG158,Basınç farkı limit aşımı,Genel Yapısal Alan / Diğer Sistem
+DMG159,Dekompresyon paneli düşmesi,Gövde Paneli / Yapısal Bölge
+DMG160,Kargo basınç perdesi çatlağı,Kapı / Kargo Kapağı
+DMG161,Hidrolik pompa aşırı ısınması,Hidrolik Hat / Aktüatör
+DMG162,İniş takımı pimi eksikliği,Genel Yapısal Alan / Diğer Sistem
+DMG163,İniş takımı çekme aktüatörü sıkışması,Genel Yapısal Alan / Diğer Sistem
+DMG164,Tekerlek göbeği çatlağı,İniş Takımı Sistemi
+DMG165,Lastik sırtı ayrılması,Genel Yapısal Alan / Diğer Sistem
+DMG166,Fren ünitesi aşırı ısınması,Genel Yapısal Alan / Diğer Sistem
+DMG167,Fren aşınma göstergesi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG168,Hidrolik sıvı köpürmesi,Hidrolik Hat / Aktüatör
+DMG169,Motor yağ filtresi tıkanması,Motor Ünitesi / Egzoz Hattı
+DMG170,Motor ateşleme ünitesi arızası,Motor Ünitesi / Egzoz Hattı
+DMG171,Kompresör bleed valfi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG172,Yakıt manifoldu kaçağı,Yakıt Sistemi / Yakıt Hattı
+DMG173,APU yakıt pompası arızası,Yakıt Sistemi / Yakıt Hattı
+DMG174,Kanat kaplama civata eksikliği,Kanat Yüzeyi / Kanat Paneli
+DMG175,Kabin yan panel çatlağı,Gövde Paneli / Yapısal Bölge
+DMG176,Lavabo sifon valfi kaçağı,Genel Yapısal Alan / Diğer Sistem
+DMG177,Su ısıtıcı arızası,Genel Yapısal Alan / Diğer Sistem
+DMG178,Mutfak soğutucu arızası,Genel Yapısal Alan / Diğer Sistem
+DMG179,Kargo sabitleme bağlantısı kırığı,Kapı / Kargo Kapağı
+DMG180,Emniyet kemeri tokası sıkışması,Genel Yapısal Alan / Diğer Sistem
+DMG181,Oksijen maskesi açılmaması,Genel Yapısal Alan / Diğer Sistem
+DMG182,Acil tahliye kaydı geç şişmesi,Genel Yapısal Alan / Diğer Sistem
+DMG183,Kabin basınç kontrol arızası,Genel Yapısal Alan / Diğer Sistem
+DMG184,APU egzoz kanalı çatlağı,Motor Ünitesi / Egzoz Hattı
+DMG185,Yakıt havalandırma tankı kaçağı,Yakıt Sistemi / Yakıt Hattı
+DMG186,RAT (ram air turbine) açılmaması,Genel Yapısal Alan / Diğer Sistem
+DMG187,Anti-skid sistemi arızası,Genel Yapısal Alan / Diğer Sistem
+DMG188,Ters itki aktüatörü kaçağı,Genel Yapısal Alan / Diğer Sistem
+DMG189,Bleed air izolasyon valfi sıkışması,Genel Yapısal Alan / Diğer Sistem
+DMG190,Kanat slat mekanizması arızası,Kanat Yüzeyi / Kanat Paneli
+DMG191,Elevator trim kablosu aşınması,Genel Yapısal Alan / Diğer Sistem
+DMG192,Motor kaportası hasarı,Motor Ünitesi / Egzoz Hattı
+DMG193,Flap rayı yağsız kalmış,Genel Yapısal Alan / Diğer Sistem
+DMG194,Spoiler aktüatör sızdırması,Genel Yapısal Alan / Diğer Sistem
+DMG195,Kabin nem sensörü arızası,Elektrik Sistemi / Sensör Ağı
+DMG196,Hidrolik tank seviye düşüklüğü,Hidrolik Hat / Aktüatör
+DMG197,Motor titreşim sensörü arızası,Motor Ünitesi / Egzoz Hattı
+DMG198,Fan kapağı menteşe aşınması,Genel Yapısal Alan / Diğer Sistem
+DMG199,APU giriş kapağı aktüatör arızası,Genel Yapısal Alan / Diğer Sistem
+DMG200,Gövde bağlantı civatası gevşemesi,Gövde Paneli / Yapısal Bölge
