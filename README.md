@@ -34,3 +34,17 @@ Uygulama açıldığında, örnek sorudan yararlanarak veya kendi sorunuzu yazar
 - `2021 yılında gyro sisteminde arıza yaşayan uçak oldu mu?`
 - `Seviyesi yüksek olarak sınıflanan raporlar hangi uçaklar için?`
 - `Motor hasarı yaşayan uçaklar için hangi tamir işlemleri uygulanmış?`
+
+## Elde Edilen Sonuçlar
+- **Gyro sistemi arızası**  
+  Soru: `2021 yılında gyro sisteminde arıza yaşayan uçak oldu mu?`  
+  Yanıt senaryosu: Asistan, ilgili raporları filtreleyerek hangi uçaklarda tekrar eden gyro arızası bulunduğunu ve uygulanan tamir yöntemini özetler.
+- **Kritik seviye hasar takibi**  
+  Soru: `Seviyesi yüksek olarak sınıflanan raporlar hangi uçaklar için?`  
+  Yanıt senaryosu: Filtrenin sonucunda yüksek öncelikli bakım gerektiren uçak listesi ve rapor tarihleri bir arada döner.
+- **Tamir süreçlerini kıyaslama**  
+  Soru: `Motor hasarı yaşayan uçaklar için hangi tamir işlemleri uygulanmış?`  
+  Yanıt senaryosu: Motor arızası raporları karşılaştırılır, her bir uçak için onarım adımları ve süreleri özetlenir.
+- **Parça tedarik planlaması**  
+  Soru: `İniş takımı sorunlarında en sık değişen parçalar hangileri?`  
+  Yanıt senaryosu: Belgelerden çekilen bilgiler aynı parçanın farklı raporlarda tekrarlandığını gösterir, tedarik listesine girdi sağlar.
